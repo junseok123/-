@@ -8,5 +8,5 @@ AIVLE SCHOOL 에서 학습한 데이터 분석 내용을 스터티</br>
 
 
 ## 증명
-<img width="500" alt="image" src="https://github.com/junseok123/STUDY/assets/57626712/96eb96f9-5c47-4ffd-b417-881adb3a2938"><img alt="image" width="500" src="https://github.com/junseok123/STUDY/assets/57626712/9767cd6e-9df4-4939-91b7-bdd47f8dcbcd"></br>
+<img width="400" alt="image" src="https://github.com/junseok123/STUDY/assets/57626712/96eb96f9-5c47-4ffd-b417-881adb3a2938"><img alt="image" width="400" src="https://github.com/junseok123/STUDY/assets/57626712/9767cd6e-9df4-4939-91b7-bdd47f8dcbcd"></br>
 킬이 많을수록 승률은 올라간다
