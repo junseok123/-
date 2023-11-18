@@ -8,3 +8,5 @@ AIVLE SCHOOL 에서 학습한 데이터 분석 내용을 스터티</br>
 ## 증명
 ![배그 킬](https://github.com/junseok123/STUDY/assets/57626712/96eb96f9-5c47-4ffd-b417-881adb3a2938)
 ![배그 킬2](https://github.com/junseok123/STUDY/assets/57626712/9767cd6e-9df4-4939-91b7-bdd47f8dcbcd)
+
+킬이 많을수록 승률은 올라간다
